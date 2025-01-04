@@ -1,0 +1,7 @@
+.img-delete {
+  margin-left: 15px;
+  cursor: pointer;
+  width: 21px;
+  background-color: var(--color-secundario);
+  border-radius: 50%;
+}

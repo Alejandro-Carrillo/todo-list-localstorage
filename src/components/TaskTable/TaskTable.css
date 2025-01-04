@@ -1,0 +1,14 @@
+.task-table {
+  width: 315px;
+  height: fit-content;
+  margin: 30px auto;
+}
+
+.table-title {
+  padding: 5px 15px;
+  border-radius: 10px 10px 0 0;
+  font-size: 17px;
+  color: var(--color-principal);
+  border-bottom: 2px solid var(--color-principal);
+  text-align: left;
+}

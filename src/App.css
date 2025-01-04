@@ -1,0 +1,36 @@
+:root {
+  --color-principal: #0D969E;
+  --color-secundario: #fcfcfc;
+  --color-terciario: #F8FCFD;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 60px;
+  background-color: var(--color-secundario);
+}
+
+.container-table {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 60px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
