@@ -4,7 +4,7 @@ import "./TaskFott.css";
 const TaskFott = () => {
   return (
     <div className="fott">
-      <h4>Developed by Alejandro Carrillo</h4>
+      <a href="https://carrillodev.com">Alejandro Carrillo | carrillodev.com</a>
     </div>
   );
 };
